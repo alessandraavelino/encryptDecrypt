@@ -1,0 +1,6 @@
+Alunos: Alessandra.
+        Hacjesse.
+
+1 - Executar o programa 1 com a entrada "S"
+2 - Executar o programa 2
+3 - Executar o programa 1 com a entrada "N"
